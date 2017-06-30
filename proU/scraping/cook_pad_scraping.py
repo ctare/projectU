@@ -13,5 +13,6 @@ recipe = soup.select(".clearfix")
 steps = soup.select(".step")
 step_texts = soup.select(".step_text")
 
+
 print(recipe)
 print(steps)
